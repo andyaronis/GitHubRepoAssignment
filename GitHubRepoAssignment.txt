@@ -1,0 +1,12 @@
+Logged into GitHub and created a repository.
+Opened my terminal.
+
+cd desktop
+Mkdir GitHubRepoAssignment
+Cd GitHubRepoAssignment
+Touch readme.md
+Git status
+Git add readme.md
+Git commit -m "added readme.md"
+Copy and pasted both "push" codes from GitHub Website
+Logged into GitHub when prompted by terminal
